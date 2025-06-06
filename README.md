@@ -12,6 +12,8 @@ ox_target
 Görseli ox_inventory/web/images içerisine atınız.
 
 ox_inventory/data/items kısmna ise bu itemi ekleyin:
+
+
 	['vehiclekey'] = {
 		label = 'Araç Anahtarı',
 		weight = 1,
